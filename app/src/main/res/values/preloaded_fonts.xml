@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/basic</item>
+        <item>@font/bigshot_one</item>
+        <item>@font/inconsolata_bold</item>
+        <item>@font/jockey_one</item>
+        <item>@font/michroma</item>
+        <item>@font/monoton</item>
+        <item>@font/poller_one</item>
+        <item>@font/share_bold</item>
+        <item>@font/telex</item>
+    </array>
+</resources>
